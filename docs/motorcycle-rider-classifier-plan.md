@@ -8,10 +8,13 @@ A recomendação é:
 
 1. Usar este plano para orientar escopo, sequência e critérios de aceite.
 2. Antes de iniciar cada fase, gerar um plano detalhado daquela fase com tarefas, schema, comandos Tauri, UI e testes.
-3. Encerrar cada fase com um artefato executável e validável.
-4. Só detalhar a fase seguinte depois de observar os resultados reais da fase atual.
+3. Validar e aprovar esse plano detalhado antes de executar alterações funcionais ou criar artefatos da fase.
+4. Encerrar cada fase com um artefato executável e validável.
+5. Só detalhar a fase seguinte depois de observar os resultados reais da fase atual.
 
 Motivo: o problema depende de evidência visual e dados reais. A estratégia ideal para adesivo, OCR, embeddings e clustering vai mudar conforme a qualidade das fotos, variação de ângulos, resolução, iluminação, capacetes, roupas e motos. Um plano grande demais no início tende a cristalizar decisões ruins.
+
+Para fases mais complexas, o fluxo esperado é sempre: planejar a fase em detalhe, revisar o plano, receber OK explícito e só então executar. A Fase 0 é a preparação desse processo; as fases seguintes não devem começar diretamente pela implementação.
 
 ## Objetivo
 
