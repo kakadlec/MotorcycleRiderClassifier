@@ -93,9 +93,13 @@ Entidades principais propostas:
 
 ### Fase 0 - Preparação E Corpus De Validação
 
+Status: **concluída para iniciar a PoC de domínio**.
+
 Objetivo: definir o problema com dados reais antes de alterar muito código.
 
 Plano detalhado: `docs/phase-0-corpus-ground-truth.md`.
+
+Notas de execução: `docs/phase-0-execution-notes.md`.
 
 Escopo:
 
