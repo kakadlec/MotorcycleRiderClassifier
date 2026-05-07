@@ -1,0 +1,2 @@
+event_id;photo_id;case_type;expected_challenge;review_priority;notes
+evt_20260506_example;photo_example_00001;hidden_sticker;sticker is not usable so visual similarity must carry the grouping;high;synthetic example row
