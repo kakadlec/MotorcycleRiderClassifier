@@ -10,6 +10,33 @@ wheels/
 # Research test files and results (not shipped, regenerable)
 _research_ab_test/test_files/
 _research_ab_test/results/
+_rider_classification/test_files/
+_rider_classification/results/
+_rider_research_ab_test/test_files/
+_rider_research_ab_test/results/
+_rider_ab_test/test_files/
+_rider_ab_test/results/
+
+# Local rider corpus, ground truth copies, and generated experiment outputs
+_local/
+rider_corpus/
+rider_outputs/
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+*.npy
+*.npz
+*.parquet
+*.pt
+*.pth
+*.safetensors
+*.pkl
+*.pickle
+embeddings/
+thumbnails/
+crops/
 
 # Synology metadata
 @eaDir/

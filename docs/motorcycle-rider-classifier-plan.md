@@ -95,6 +95,8 @@ Entidades principais propostas:
 
 Objetivo: definir o problema com dados reais antes de alterar muito código.
 
+Plano detalhado: `docs/phase-0-corpus-ground-truth.md`.
+
 Escopo:
 
 - Separar um corpus pequeno e representativo de fotos.

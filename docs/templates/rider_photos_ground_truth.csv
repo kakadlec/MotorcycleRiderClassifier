@@ -1,0 +1,2 @@
+event_id;photo_id;relative_path;rider_id;sticker_number;sticker_visibility;view_angle;quality_flags;split;notes
+evt_20260506_example;photo_example_00001;day_01/IMG_0001.jpg;rider_example_001;27;visible;front;ok;validation;synthetic example row
